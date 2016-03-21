@@ -5,6 +5,7 @@ title: "Tap n' Track Post 4"
 author: Jocelyn Lee
 tags : [intro, beginner, tutorial]
 ---
+
 # Tap N' Track
 
 ### What this course has taough me thus far:
@@ -17,7 +18,7 @@ tags : [intro, beginner, tutorial]
 - waffle.io is a great way to manage group projects with the use of many smaller milestones, it also helps people stay accountable to deadlines
 
 
- 
- 
- 
+
+
+
 
